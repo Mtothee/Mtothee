@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Markus</h1>
+<h1 align="center">Hi :vulcan_salute:	, I'm Markus</h1>
 <h3 align="center">Just a parttime coder...</h3>
 
 - 🔭 I’m currently working on **ticketingsystem**
